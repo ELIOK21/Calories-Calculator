@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Calorie Calculator</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="Age">
+        <item>Below 24</item>
+        <item>Above 24</item>
+    </string-array>
+
+    <string-array name="age_below_24">
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+    </string-array>
+
+    <string-array name="age_above_24">
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+</resources>
